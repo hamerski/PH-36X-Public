@@ -1,1 +1,0 @@
-These are public course materials for the computational physics lab sequence at Oregon State University.
